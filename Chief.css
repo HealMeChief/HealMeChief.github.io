@@ -1,0 +1,184 @@
+body {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0,
+      "XELA" 0,
+      "YELA" 0;
+      background-color: rgba(38, 22, 68, 0.815);
+      margin: 0px;
+}
+.nick{
+    box-shadow: 0px 10px 100px rgb(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 100px;
+    width: 265px;
+    background-color: rgba(2, 184, 184, 0.63);
+    position: absolute;
+    left: 44%;
+    top: 100px;
+    z-index: 3;
+}
+.box{
+    width: 100%;
+    height: 400px;
+    background-image: url(./1fef59319fd8e2cefc5e99b6ac55b083.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -225px;
+    background-position-x: 0px;    
+    background-attachment: fixed;
+    border-bottom: 5px solid black;
+}
+.nick_border{
+    border: 20px ridge rgba(0, 0, 0, 0.678); 
+    height: 150px;
+    width: 70%;
+    position: absolute;
+    left: 300px;
+    top: 55px;
+    background-color: rgba(137, 43, 226, 0.767);
+    z-index: 1;
+}
+.disk{
+    position: absolute;
+    left: 320px;
+    top: 76px;
+    background-color: rgba(2, 184, 184, 0.61);
+    width: 450px;
+    height: 108px;
+    border-radius: 50px;
+    padding: 20px;
+    letter-spacing: 2px;
+    line-height: 1.2;   
+    z-index: 2;
+}
+.discord{
+    position: absolute;
+    right: 320px;
+    top: 140px;
+    z-index: 4;
+}
+.steam{
+    position: absolute;
+    right: 270px;
+    top: 160px;
+    z-index: 5;
+}
+.sosaiti{
+    position: absolute;
+    right: 550px;
+    top: 76px;
+    z-index: 6;
+    border-left: 2px dashed black;
+    padding: 15px;
+    width: 100px;
+    height: 120px;
+    line-height: 1.5;
+    font-size: 1.5;
+}
+.line{
+    position: absolute;
+    left: 600px;
+    top: 245px;
+    width: 700px;
+    height: 337px;
+    border-left: 3px solid rgba(0, 0, 0, 0.548);
+    border-right: 3px solid rgba(0, 0, 0, 0.548);
+    background-color: rgba(137, 43, 226, 0.63);
+    z-index: 1;
+}
+.outline_dev{
+    position: absolute;
+    top: 800px;
+    left: 100px;
+    box-shadow: 0px 10px 100px rgb(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 100px;
+    background-color: rgba(2, 184, 184, 0.63);
+    width: 400px;
+}
+.outline_dev2{
+    position: absolute;
+    top: 600px;
+    left: 150px;
+    box-shadow: 0px 10px 100px rgb(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 100px;
+    background-color: rgba(2, 184, 184, 0.63);
+}
+.outline_dev_text{
+    line-height: 1.5;
+    font-size: 25px;
+    margin-left: 70px;
+    box-shadow: 0px 10px 100px rgb(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 100px;
+    background-color: rgba(2, 184, 184, 0.63);
+    border: 1px solid black;
+    
+}
+.Things{
+    position: absolute;
+    left: 44%;
+    top: 400px;  
+    z-index: 2;  
+}
+.Things_text{
+    position: absolute;
+    left: 620px;
+    top: 450px;  
+    width: 640px;  
+    line-height: 1.5;
+    font-size: 15px;
+    z-index: 2;
+}
+.roflanebalo{
+    position: absolute;
+    right: 0px;
+    float: left;
+}
+.nothing{
+    position: absolute;
+    right: 80px;
+    top: 400px;
+    font-size: 20px;
+}
+.nothing_text{
+    position: absolute;
+    right: 200px;
+    top: 450px;
+    width: 350px;
+    line-height: 1.5;
+}
+.Exp{
+    text-align: center;
+   font-family: sans-serif;
+   color: chocolate;
+
+}
+.opit1{
+    display: grid;
+    justify-content: center;
+    z-index: 2;
+    box-shadow: 0px 10px 100px rgb(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 50px;
+    margin: auto;
+    width: 300px;
+    background-color: rgba(2, 184, 184, 0.63);
+   
+}
+.line1{
+    position: absolute;
+    left: 600px;
+    top: 245px;
+    width: 700px;
+    height: 900px;
+    border-left: 3px solid rgba(0, 0, 0, 0.548);
+    border-right: 3px solid rgba(0, 0, 0, 0.548);
+    z-index: 1;
+}
