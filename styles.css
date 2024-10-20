@@ -168,8 +168,9 @@ width: 50%;
     border-radius: 10px;
     position: relative;
     display: flex; 
-    margin-top: 35%;
+    margin-top: 13%;
     box-shadow: 100px 80px 110px  green;
+    margin-right: 5%;
 }
 .slackSec{
     display: flex;
@@ -192,20 +193,23 @@ video {
     border-radius: 10px;
     position: relative;
     display: flex; 
-    margin-top: 110%;
+    margin-top: 45%;
     box-shadow: 100px 80px 110px  orange;
+    margin-right: 5%;
 }
 .dImgUndr3{
     border-radius: 10px;
     position: relative;
     display: flex; 
-    margin-top: 105%;
+    margin-top: 45%;
     box-shadow: 100px 80px 110px  rgb(0, 162, 255);
+    margin-right: 5%;
 }
 .dImgUndr4{
     border-radius: 10px;
     position: relative;
     display: flex; 
-    margin-top: 85%;
+    margin-top: 45%;
     box-shadow: 100px 80px 110px  purple;
+    margin-right: 5%;
 }
