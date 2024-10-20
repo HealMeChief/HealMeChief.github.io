@@ -1,0 +1,141 @@
+body{
+    font-family: "Afacad Flux";
+}
+
+
+.navbar{
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+list-style-type: none;
+text-decoration: none;
+justify-content: space-around;
+width: 50%;
+
+}
+
+
+
+.sales{
+    border: 2px solid purple;
+    border-radius: 3px;
+    padding: 10px;
+    color: purple;
+}
+.start{
+    border: 2px solid purple;
+    border-radius: 3px;
+    background-color: purple;
+    padding: 10px;
+    color: white;
+}
+
+.navbar2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content:flex-end;
+    margin-left: 200px;
+    gap: 30px;
+    
+    
+    
+}
+.dashbar{
+    display: flex;
+    flex-direction: row;
+}
+
+.startMain{
+    border: 2px solid purple;
+    border-radius: 3px;
+    background-color: purple;
+    padding: 15px;
+    color: white;
+}
+.mainMenu{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.work{
+    font-size: 50px;
+}
+.MainMenuImg{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    gap: 90px;
+}
+.ImgUnderMain{
+    display: flex;
+    justify-content: center;
+    border: 2px;
+     
+    
+}
+.ImgUndr{
+    max-width: 50%; /* Ограничивает максимальную ширину изображения */
+    height: auto; /* Сохраняет пропорции изображения */
+    flex: 0 1 auto; /* Устанавливает гибкие свойства для изображения */
+    max-height: 70%;
+    border-radius: 15px;
+    outline: none; /* Убирает контуры при фокусировке */
+}
+.people{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 27px;  
+}
+.people_text{
+    flex: 1;
+    max-width: 80%; /* Максимальная ширина текстового контейнера */   
+    text-align: center; /* Центрируем текст */
+}
+.hueta{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;    
+    flex-direction: row;
+    gap: 40PX;
+}
+.hueta_head{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    
+}
+.comp-value-props__subhead{
+    flex-flow: nowrap;
+    display: flex;
+    flex-direction: row;
+}
+.navbarMobile{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-around;
+    width: 70%;
+}
+.navbar2Mobile{
+    display: none;
+}
+.navbar2Mobile2{
+    display: none;
+    
+}
+
+.sideMenu{
+    display: none;
+}
+
+.menu{
+    display: none;
+}
